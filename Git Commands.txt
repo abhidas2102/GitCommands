@@ -1,0 +1,12 @@
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/abhidas2102/GitCommands.git
+git push -u origin master
+
+
+
+git clone <url paste here> -b <branch name>
+
+git clone  https://github.com/abhidas2102/GitCommands.git -b master
