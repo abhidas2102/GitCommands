@@ -1,0 +1,13 @@
+mysqld --console
+
+In second cmd
+
+mysql -u root
+
+use flights;
+(where flights is created database name)
+
+extra commands
+
+show databases;
+create database flights;
