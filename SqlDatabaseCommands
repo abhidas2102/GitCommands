@@ -9,5 +9,7 @@ use flights;
 
 extra commands
 
+show tables;
+
 show databases;
 create database flights;
