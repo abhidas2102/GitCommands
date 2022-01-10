@@ -10,3 +10,6 @@ git push -u origin master
 git clone <url paste here> -b <branch name>
 
 git clone  https://github.com/abhidas2102/GitCommands.git -b master
+
+
+git config --global user.email "abhidas2102@gmail.com"
