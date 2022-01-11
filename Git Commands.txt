@@ -13,3 +13,5 @@ git clone  https://github.com/abhidas2102/GitCommands.git -b master
 
 
 git config --global user.email "abhidas2102@gmail.com"
+
+git pull https://github.com/ayon-das/tweet-app-console.git
